@@ -1,5 +1,5 @@
-import Tasklist from "./TaskList";
-import TaskForm from "./TaskForm";
+import Tasklist from "./components/TaskList";
+import TaskForm from "./components/TaskForm";
 
 export const App = () => {
     return (
